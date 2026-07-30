@@ -5,7 +5,7 @@ import numpy as np
 import pickle
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def pdf_to_vectors(pdf_path):
